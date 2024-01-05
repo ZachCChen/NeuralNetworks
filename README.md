@@ -1,9 +1,8 @@
-# NeuralNetworks
-This is the main project I am working on.
+# Neural Networks
+The main project I am working on is the hand gesture regnition file. 
+This program tracks points on the hand what hand it is, as well as what gesture it is showing.
+As of now, it can detect a fist, pointer finger, okay symbol, and an open palm.
 
-The mnist2.py file was created by Samson Zhang. You can find him on Youtube.
 
-Right now, I am studying the book, "Neural Networks From Scratch in Python."
-I could have used Tensorflow or Keras, but I couldn't get it to work. 
-Now, I think I could have downloaded them, but I think it is more benifical to learn the math behind 
-neual networks as well as a challenge.
+If you want to soo how it works, look at
+https://youtu.be/8mHHHoBOlMo
