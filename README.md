@@ -5,7 +5,7 @@ The main project I worked on is the hand gesture regnition file.
 
 This program tracks points on the hand what hand it is, as well as what gesture it is showing.
 As of now, it can detect a fist, pointer finger, okay symbol, and an open palm.
-I was able to use data from Google MediaPipe to speed up traning.
+I used data from Google MediaPipe to create it.
 
 
 If you want to see how it works, look at
